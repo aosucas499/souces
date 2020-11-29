@@ -1,4 +1,4 @@
-#wget --no-check-certificate --content-disposition https://github.com/aosucas499/sources/raw/main/focal-sources.list
+#wget --no-check-certificate --content-disposition https://github.com/aosucas499/sources/raw/main/educaandos.list
 
 deb [arch=amd64] http://centros.edu.guadalinex.org/Edu/focal educaandos main
  
