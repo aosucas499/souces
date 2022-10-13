@@ -1,0 +1,4 @@
+deb [arch=amd64] http://centros.edu.guadalinex.org/Edu/focalsc educaandos main
+#deb [arch=amd64] http://f0:3142/centros.edu.guadalinex.org/Edu/focalsc educaandos main
+deb [arch=amd64] http://centros.edu.guadalinex.org/Edu/focalscpdi educaandos main
+deb [arch=amd64] http://centros.edu.guadalinex.org/Edu/focalscmd educaandos main
